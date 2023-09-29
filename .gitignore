@@ -151,3 +151,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 datafiles/geochem_global_20230124.csv
+.DS_Store
+*.png
