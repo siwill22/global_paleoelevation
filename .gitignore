@@ -153,3 +153,11 @@ cython_debug/
 datafiles/geochem_global_20230124.csv
 .DS_Store
 *.png
+datafiles/orogens_pmap.shx
+datafiles/orogens_pmap.shp.gplates.xml
+datafiles/orogens_pmap.shp
+datafiles/orogens_pmap.prj
+datafiles/orogens_pmap.gmt.gplates.xml
+datafiles/orogens_pmap.gmt
+datafiles/orogens_pmap.dbf
+datafiles/orogens_pmap.cpg
