@@ -161,3 +161,4 @@ datafiles/orogens_pmap.gmt.gplates.xml
 datafiles/orogens_pmap.gmt
 datafiles/orogens_pmap.dbf
 datafiles/orogens_pmap.cpg
+*.png
