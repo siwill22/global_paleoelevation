@@ -162,3 +162,7 @@ datafiles/orogens_pmap.gmt
 datafiles/orogens_pmap.dbf
 datafiles/orogens_pmap.cpg
 *.png
+images/Plate_Kinematics_Andes_Matthews++2016.png
+images/Plate_Kinematics_Andes_Muller++2019.png
+images/Plate_Kinematics_Andes_Muller++2022.png
+images/Plate_Kinematics_Andes_Muller++2022_NNR.png
